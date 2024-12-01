@@ -1,0 +1,34 @@
+# Python cache files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environments
+venv/
+.env/
+
+# Environment variables
+*.env
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Logs and local debug files
+*.log
+*.sqlite3
+
+# Byte-compiled / optimized / compiled files
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# MacOS system files
+.DS_Store
+
+# Backup files
+*.bak
+*.swp
